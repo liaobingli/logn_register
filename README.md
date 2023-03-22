@@ -22,3 +22,21 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+functionqicheren(){
+
+ q=汽车人-1代
+
+return b
+
+}
+
+function batianhu(){
+
+ b=霸天虎-1代
+
+ b=霸天虎-2代
+
+return b
+
+}
