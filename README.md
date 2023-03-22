@@ -29,8 +29,6 @@ functionqicheren(){
 
  q =汽车人-2代
 
- q  = 汽车人-3代
-
 return b
 
 }
