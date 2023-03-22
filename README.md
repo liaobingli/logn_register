@@ -39,6 +39,8 @@ function batianhu(){
 
  b=霸天虎-2代
 
+ b=霸天虎-3代
+
 return b
 
 }
