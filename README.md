@@ -23,11 +23,17 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+//场地
+
+B区
+
 functionqicheren(){
 
  q=汽车人-1代
 
  q =汽车人-2代
+
+ q =汽车人-3代
 
 return b
 
