@@ -25,7 +25,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 //场地
 
-B区
+A区/B区
 
 functionqicheren(){
 
